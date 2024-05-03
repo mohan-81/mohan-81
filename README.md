@@ -4,10 +4,10 @@ Welcome to Mohan Thambabattula's GitHub Profile!
 
 🚀 Here you'll find projects and code snippets related to:
 
-Data Science & Analytics
-Machine Learning & AI
-Web Development
-IoT
+Data Science & Analytics, 
+Machine Learning & AI, 
+Web Development, 
+IoT and 
 Problem Solving & Algorithms
 
 📫 Get in touch:
