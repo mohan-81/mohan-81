@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @mohan-81
-- 👀 I’m interested in data science,python programming,web development
-- 🌱 I’m currently learning Data science from Devtown company
-- 💞️ I’m currently pursuing my B.tech Degree in CSE stream
-- 📫 DM me on @mohanthambabattula@gmail.com
+Welcome to Mohan Thambabattula's GitHub Profile!
+👋 Hi there! I'm Mohan, a computer science student passionate about Problem solving, Project management, Data Science, Machine Learning and Data Analytics and Visualisations.
 
-<!---
-mohan-81/mohan-81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Here you'll find projects and code snippets related to:
+
+Data Science & Analytics
+Machine Learning & AI
+Web Development
+IoT
+Problem Solving & Algorithms
+
+📫 Get in touch:
+
+LinkedIn: www.linkedin.com/in/mohan-thambabattula
+Email: thambabattulamohan@gmail.com
+upwork: https://www.upwork.com/freelancers/~01e5ea971d943b3646
+
+Let's connect and collaborate! Feel free to explore my projects and reach out if you have any questions or ideas.
